@@ -205,13 +205,13 @@ h2{
     transition:.3s;
 }
 .vis{
-    width: 500px;
-    height: 500px;
-    background: url('../images/vis.jpg');
+    width: 400px;
+    height: 400px;
+    background: url('../images/5.png');
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
-    border-radius: 100%;
+    /*border-radius: 100%;*/
 }
 .flex-vis{
     display: flex;
